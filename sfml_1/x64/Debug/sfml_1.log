@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\st\source\repos\sfml_1\main.cpp(8,46): warning C4244:  аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\st\source\repos\sfml_1\main.cpp(8,32): warning C4244:  аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\st\source\repos\sfml_1\main.cpp(46,17): error C2065:  obs1: необъявленный идентификатор
+C:\Users\st\source\repos\sfml_1\main.cpp(46,3): error C3861:  obstcleUpdate: идентификатор не найден
+C:\Users\st\source\repos\sfml_1\main.cpp(49,5): error C2065:  obs1: необъявленный идентификатор
